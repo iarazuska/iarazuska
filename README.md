@@ -1,7 +1,5 @@
 <div align="center">
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1976d2,100:6DB33F&height=200&section=header&text=Hey,%20I'm%20Iara!&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=DAM%20Graduate%20·%20Full%20Stack%20Developer%20in%20progress&descAlignY=55&descSize=18" width="100%"/>
-
 </div>
 
 <div align="center">
@@ -47,6 +45,7 @@
 <div align="center">
 
 [![FlowBoard](https://github-readme-stats.vercel.app/api/pin/?username=iarazuska&repo=FlowBoard&theme=tokyonight&hide_border=true&title_color=58a6ff&text_color=8b949e&icon_color=58a6ff)](https://github.com/iarazuska/FlowBoard)
+[![JSONify](https://github-readme-stats.vercel.app/api/pin/?username=iarazuska&repo=JSONify&theme=tokyonight&hide_border=true&title_color=58a6ff&text_color=8b949e&icon_color=58a6ff)](https://github.com/iarazuska/JSONify)
 
 </div>
 
