@@ -46,6 +46,7 @@
 
 [![FlowBoard](https://github-readme-stats.vercel.app/api/pin/?username=iarazuska&repo=FlowBoard&theme=tokyonight&hide_border=true&title_color=58a6ff&text_color=8b949e&icon_color=58a6ff)](https://github.com/iarazuska/FlowBoard)
 [![JSONify](https://github-readme-stats.vercel.app/api/pin/?username=iarazuska&repo=JSONify&theme=tokyonight&hide_border=true&title_color=58a6ff&text_color=8b949e&icon_color=58a6ff)](https://github.com/iarazuska/JSONify)
+[![SpotLoader](https://github-readme-stats.vercel.app/api/pin/?username=iarazuska&repo=SpotLoader&theme=tokyonight&hide_border=true&title_color=58a6ff&text_color=8b949e&icon_color=58a6ff)](https://github.com/iarazuska/SpotLoader)
 
 </div>
 
@@ -57,7 +58,7 @@
 
 ![Iara's GitHub stats](https://github-readme-stats.vercel.app/api?username=iarazuska&show_icons=true&theme=tokyonight&hide_border=true&title_color=58a6ff&text_color=8b949e&icon_color=58a6ff)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iarazuska&layout=compact&theme=tokyonight&hide_border=true&title_color=58a6ff&text_color=8b949e)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iarazunika&layout=compact&theme=tokyonight&hide_border=true&title_color=58a6ff&text_color=8b949e)
 
 </div>
 
